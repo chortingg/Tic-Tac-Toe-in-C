@@ -4,4 +4,4 @@ This is a simple project (for school) for programming in C that I have built pro
 
 It contains a menu, which allows user to choose multiplayer mode, to see their highscore, or to exit. (I plan on adding a Human VS Computer mode in the near future, and being able to let players edit their names in highscores just like in classic games.)
 
-This is part of fulfilling the module's expectations to write a code which has loops, functions, data validation, user-exit, and which is well-structured with indentations.
+This is part of fulfilling the module's expectations to write a code which has loops, functions, data validation, user-exit, and which is well-structured with indentations and to create a project for myself that is fun.
